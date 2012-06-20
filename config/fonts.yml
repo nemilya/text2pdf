@@ -1,0 +1,88 @@
+fonts:
+  - code: font1
+    title: "xfont.ru : 42646"
+    url: http://xfont.ru/fonts/4/2/6/42646.ttf
+
+  - code: font2
+    title: "xfont.ru : 42816"
+    url: http://xfont.ru/fonts/4/2/8/42816.ttf
+
+  - code: font3
+    title: "xfont.ru : 42816"
+    url: "http://xfont.ru/fonts/4/2/8/42819.ttf"
+
+  - code: font4
+    title: "xfont.ru : 42821"
+    url: "http://xfont.ru/fonts/4/2/8/42821.ttf"
+
+  - code: font5
+    title: "xfont.ru : 42830"
+    url: "http://xfont.ru/fonts/4/2/8/42830.ttf"
+
+  - code: font6
+    title: "xfont.ru : 42832"
+    url: "http://xfont.ru/fonts/4/2/8/42832.ttf"
+
+  - code: font7
+    title: "xfont.ru : 42833"
+    url: "http://xfont.ru/fonts/4/2/8/42833.ttf"
+
+  - code: font8
+    title: "xfont.ru : 42835"
+    url: "http://xfont.ru/fonts/4/2/8/42835.ttf"
+
+  - code: font9
+    title: "xfont.ru : 42839"
+    url: "http://xfont.ru/fonts/4/2/8/42839.ttf"
+
+  - code: font10
+    title: "xfont.ru : 42840"
+    url: "http://xfont.ru/fonts/4/2/8/42840.ttf"
+
+  - code: font11
+    title: "xfont.ru : 42854"
+    url: "http://xfont.ru/fonts/4/2/8/42854.ttf"
+
+  - code: font12
+    title: "xfont.ru : 11825"
+    url: "http://xfont.ru/fonts/1/1/8/11825.ttf"
+
+  - code: font13
+    title: "xfont.ru : 42103"
+    url: "http://xfont.ru/fonts/4/2/1/42103.ttf"
+
+  - code: font14
+    title: "xfont.ru : 42603"
+    url: "http://xfont.ru/fonts/4/2/6/42603.ttf"
+
+  - code: font15
+    title: "xfont.ru : 42657"
+    url: "http://xfont.ru/fonts/4/2/6/42657.ttf"
+
+  - code: font16
+    title: "xfont.ru : 42705"
+    url: "http://xfont.ru/fonts/4/2/7/42705.ttf"
+
+  - code: font17
+    title: "xfont.ru : 42714"
+    url: "http://xfont.ru/fonts/4/2/7/42714.ttf"
+
+  - code: font18
+    title: "xfont.ru : 42855"
+    url: "http://xfont.ru/fonts/4/2/8/42855.ttf"
+
+  - code: font19
+    title: "xfont.ru : 42858"
+    url: "http://xfont.ru/fonts/4/2/8/42858.ttf"
+
+  - code: font20
+    title: "xfont.ru : 42860"
+    url: "http://xfont.ru/fonts/4/2/8/42860.ttf"
+
+  - code: font21
+    title: "xfont.ru : 42864"
+    url: "http://xfont.ru/fonts/4/2/8/42864.ttf"
+
+  - code: font22
+    title: "xfont.ru : 42865"
+    url: "http://xfont.ru/fonts/4/2/8/42865.ttf"
