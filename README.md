@@ -1,6 +1,8 @@
 text2pdf
 ========
 
+MIT License
+
 Пример простого приложения перевода текста в PDF.
 
 На базе гема prawn (http://prawn.majesticseacreature.com).
